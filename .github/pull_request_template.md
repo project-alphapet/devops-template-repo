@@ -1,6 +1,6 @@
 ## Pull Request Form
 
-> [Danger]
+> [!CAUTION]
 > Antes de subir o pr faça uma validação do código que foi adicionado nos commits enviados!
 
 ## Checklist
